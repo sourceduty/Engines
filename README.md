@@ -10,15 +10,38 @@ In aerospace, propulsion systems differ due to the unique demands of air and spa
 #
 ### Engine Types
 
-| Engine Type          | Application      | Fuel Type         | Description                                                                                   |
-|----------------------|------------------|-------------------|-----------------------------------------------------------------------------------------------|
-| Internal Combustion  | Road vehicles    | Gasoline, Diesel  | Relies on fuel combustion within cylinders; common configurations include inline, V-type, and flat engines. |
-| Electric Motor       | Road vehicles    | Electric          | Uses stored electrical energy to power a motor, providing quiet and zero-emission propulsion. |
-| Hybrid Engine        | Road vehicles    | Gasoline, Electric| Combines ICE and electric motor, allowing flexible fuel efficiency with dual power sources.    |
-| Turbojet             | Aerospace        | Jet fuel          | Generates thrust by expelling high-speed exhaust gases, suited for high-speed jet aircraft.    |
-| Turbofan             | Aerospace        | Jet fuel          | Adds additional airflow for quieter, more efficient propulsion, ideal for commercial flights.  |
-| Turboprop            | Aerospace        | Jet fuel          | Combines jet propulsion with propellers, suited for slower regional aircraft.                  |
-| Rocket Engine        | Spacecraft       | Fuel + Oxidizer   | Burns fuel and oxidizer at high pressure to generate significant thrust for space travel.      |
+| Engine Type                   | Application          | Fuel Type                | Description                                                                                             |
+|-------------------------------|----------------------|--------------------------|---------------------------------------------------------------------------------------------------------|
+| Internal Combustion           | Road vehicles       | Gasoline, Diesel         | Relies on fuel combustion within cylinders; common configurations include inline, V-type, and flat engines. |
+| Electric Motor                | Road vehicles       | Electric                 | Uses stored electrical energy to power a motor, providing quiet and zero-emission propulsion.             |
+| Hybrid Engine                 | Road vehicles       | Gasoline, Electric       | Combines ICE and electric motor, allowing flexible fuel efficiency with dual power sources.               |
+| Turbojet                      | Aerospace           | Jet fuel                 | Generates thrust by expelling high-speed exhaust gases, suited for high-speed jet aircraft.               |
+| Turbofan                      | Aerospace           | Jet fuel                 | Adds additional airflow for quieter, more efficient propulsion, ideal for commercial flights.             |
+| Turboprop                     | Aerospace           | Jet fuel                 | Combines jet propulsion with propellers, suited for slower regional aircraft.                             |
+| Rocket Engine                 | Spacecraft          | Fuel + Oxidizer          | Burns fuel and oxidizer at high pressure to generate significant thrust for space travel.                 |
+| Wankel Rotary Engine          | Road vehicles       | Gasoline                 | Uses a rotating rotor instead of pistons, providing smooth, high-revving power in a compact form.         |
+| Stirling Engine               | Generators          | External Heat Source     | Operates by cyclic compression and expansion of gas, efficient in stationary applications like generators.|
+| Opposed-Piston Engine         | Heavy machinery     | Diesel                   | Two pistons per cylinder, moving towards each other, offering improved efficiency and reduced emissions.   |
+| Scramjet                       | Aerospace           | Hydrogen, Jet Fuel       | Operates at hypersonic speeds by compressing incoming air before combustion; used in experimental aircraft.|
+| Fuel Cell Engine              | Road vehicles       | Hydrogen                 | Converts hydrogen into electricity through a chemical process, producing only water as a byproduct.        |
+| Air-Breathing Ion Engine      | Spacecraft          | Solar-Electric           | Uses ionized air as propellant; requires low atmosphere; primarily theoretical for high-efficiency thrust. |
+| Pulsejet                       | Aerospace, Drones   | Gasoline, Diesel         | Generates thrust through intermittent combustion; simpler than jet engines but less efficient.             |
+| Ramjet                         | Aerospace           | Jet fuel                 | Achieves high speeds by using forward motion to compress air; no moving parts; suited for supersonic flight.|
+| Liquid Air Engine             | Road vehicles       | Liquid Air               | Uses liquid air expansion to drive pistons; experimental in nature, focusing on zero-emission propulsion.  |
+| Microturbine Engine           | Road vehicles       | Jet fuel, Diesel         | Compact turbine engines; high power-to-weight ratio, useful in hybrid applications and for power generation.|
+| Linear Induction Motor        | Rail vehicles       | Electric                 | Uses electromagnetic force to drive trains or rail systems without direct contact.                         |
+| Biofuel Engine                | Road vehicles       | Biodiesel, Ethanol       | Uses renewable biofuels to reduce carbon footprint, often compatible with traditional ICE.                 |
+| Magnetohydrodynamic (MHD) Engine | Experimental    | Ionized Plasma           | Generates electricity by moving conductive plasma through a magnetic field; potential for high efficiency. |
+| Gas Turbine                   | Power plants, Ships | Natural Gas, Jet Fuel    | Uses a combination of compressed air and fuel combustion to generate power; high power output.             |
+| Steam Engine                  | Trains, Ships       | Coal, Biomass            | Uses steam produced from heated water to drive pistons or turbines; primarily historical but efficient in certain applications. |
+| Piezoelectric Engine          | Micro-robots        | Piezoelectric Materials  | Generates motion from deformation of piezoelectric materials; useful for small-scale, precise movements.   |
+| Solar Thermal Engine          | Generators          | Solar Heat               | Concentrates solar heat to produce steam and drive a generator, providing renewable power.                 |
+| Photonic Laser Thruster       | Spacecraft          | Photonic Energy          | Uses concentrated laser energy for propulsion in a vacuum; primarily theoretical for spacecraft.           |
+| Quantum Mechanical Engine     | Experimental        | Quantum Energy           | Hypothetical engine using quantum phenomena like tunneling and superposition for ultra-efficient propulsion.|
+| Nuclear Thermal Rocket        | Spacecraft          | Nuclear Fuel             | Uses nuclear reactions to heat propellant, providing high efficiency for long-duration space missions.     |
+| Gyroscopic Inertia Drive      | Theoretical         | Rotational Kinetic       | Hypothetical engine that stores and releases energy through gyroscopes; potential for high efficiency.     |
+| Cold Fusion Engine            | Experimental        | Fusion Energy            | Theoretical fusion engine providing vast energy with minimal waste, suitable for space and future vehicles.|
+| Organic Rankine Cycle Engine  | Industrial          | Waste Heat               | Converts low-grade waste heat into mechanical energy; useful for improving efficiency in power plants.      |
 
 #
 ### Quantum Mechancial Engine Concept
