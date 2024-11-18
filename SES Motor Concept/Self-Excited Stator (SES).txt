@@ -10,7 +10,7 @@ The versatility of an active electromagnetic stator allows it to support variabl
 
 -------------------------------------------------------------------
 
-SES-C0001-01: A Technological Benchmark
+SES-C0001-01
 
 The SES-C0001-01 motor exemplifies the potential of active electromagnetic stator technology. This brushless DC motor integrates sensors and electronics, enabling it to function as both an actuator and a position sensor without external components. A Hall effect sensor within the motor detects the rotor's position, facilitating precise control with minimal energy usage. With capabilities such as producing up to 3Nm of torque and operating efficiently at low speeds, this motor is suited for diverse applications, including robotics, medical devices, and automotive systems.
 
