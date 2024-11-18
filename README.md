@@ -51,13 +51,19 @@ A motor and an engine are closely related but not identical concepts, as they di
 | Organic Rankine Cycle Engine  | Industrial          | Waste Heat               | Converts low-grade waste heat into mechanical energy; useful for improving efficiency in power plants.      |
 
 #
-### Quantum Mechancial Engine Concept
+### Self-Excited Stator (SES Motor) Concept
 
-![Quantum Engine](https://github.com/user-attachments/assets/f789cfd6-fc67-4c8a-8806-7d19f0338de1)
+![Electric](https://github.com/user-attachments/assets/9a9ea943-366a-469b-9336-97113400a96f)
 
-A quantum mechanical powered engine for vehicles would revolutionize propulsion by leveraging principles of quantum mechanics, potentially utilizing phenomena such as quantum tunneling, superposition, or entanglement. Unlike conventional engines that rely on combustion or electric current, a quantum mechanical engine could generate power at an atomic level, enabling highly efficient energy conversion without the need for large-scale fuel or battery storage. Quantum tunneling could allow particles to bypass traditional energy barriers, potentially reducing the energy required for propulsion, while quantum superposition might enable simultaneous energy states, maximizing output efficiency. By harnessing energy from quantum fluctuations or vacuum energy, this engine type could tap into a nearly limitless supply of power on demand, pushing the boundaries of fuel independence.
+The purpose of creating active electromagnetic stator that uses some of the generated electric in an electric motor to power itself is to reduce the overall energy consumption and increase efficiency. By using some of the generated electricity from the motor, we can eliminate the need for external sources of power such as batteries or electrical outlets. This not only reduces the cost of operation but also makes it more environmentally friendly since there are no disposable batteries to dispose of and less reliance on non-renewable energy sources.
 
-Such an engine would likely be compact, highly efficient, and exhibit minimal heat loss, opening new possibilities for vehicle design and endurance. For aerospace applications, a quantum mechanical engine would be particularly advantageous, as its potential efficiency and compactness could drastically reduce weight, making it suitable for deep-space travel. This could allow spacecraft to operate with minimal refueling needs over long distances or even tap into interstellar energy sources. On Earth, quantum-powered vehicles could drastically reduce carbon emissions and environmental impact, as these engines would likely produce little to no waste. While the concept is still in the theoretical stage, breakthroughs in quantum mechanics and materials science may one day make quantum-powered engines a feasible reality for both terrestrial and extraterrestrial travel.
+This type of motor is also known as a self-powered or self-excited motor.
+
+An active electromagnetic stator is a type of electric motor that uses some of the generated electricity in the motor to power itself, making it more energy efficient than traditional motors. This means that instead of relying solely on an external power source, this motor can generate its own power using the kinetic energy produced by the rotation of the rotor within the stator. The result is a more efficient and cost-effective solution for various applications such as industrial machinery, household appliances, and transportation systems.
+
+One advantage of an active electromagnetic stator is that it can operate in environments where external power sources may not be readily available or reliable. For example, in remote locations or during natural disasters when traditional power grids are down, this type of motor can continue to function using its own generated electricity. Additionally, since the motor generates its own power, there is less wear and tear on the components over time, resulting in a longer lifespan for the device.
+
+Another benefit of an active electromagnetic stator is that it can be designed to operate at variable speeds, making it suitable for use in applications where precise speed control is necessary. This type of motor also has a high power-to-weight ratio, which makes it ideal for use in transportation systems such as electric vehicles and hybrid cars. Overall, the active electromagnetic stator represents an innovative solution to traditional energy efficiency challenges faced by various industries and applications.
 
 #
 ### Conceptual/Theoretical Motors
