@@ -82,6 +82,14 @@ One advantage of an active electromagnetic stator is that it can operate in envi
 Another benefit of an active electromagnetic stator is that it can be designed to operate at variable speeds, making it suitable for use in applications where precise speed control is necessary. This type of motor also has a high power-to-weight ratio, which makes it ideal for use in transportation systems such as electric vehicles and hybrid cars. Overall, the active electromagnetic stator represents an innovative solution to traditional energy efficiency challenges faced by various industries and applications.
 
 #
+### Self-Excited Stator Motor Concept (SES-C0001-01)
+
+SES-C0001-01 is a unique brushless DC (BLDC) motor concept with integrated electronics and sensors, which allows it to be used as both an actuator and position sensor without any additional external components. It can also operate in open loop mode for simple applications such as fans or pumps.
+The SES-C0001-01 has a built-in Hall effect sensor that detects the rotor's position, allowing it to be controlled precisely with minimal power consumption. The motor is designed to have high torque at low speeds and can generate up to 3Nm of torque. It also features an active electromagnetic stator that uses some of the generated electric in an electric motor to power itself, making it more energy efficient than traditional motors.
+
+The SES-C0001-01 is ideal for applications such as robotics, medical equipment, and automotive systems where precise positioning and control are required. It can also be used in industrial machinery and HVAC systems where energy efficiency is a priority. The motor's compact size and lightweight design make it easy to integrate into various devices and machines. Additionally, its high torque output makes it suitable for applications that require heavy lifting or precise movement. Overall, the SES-C0001-01 offers an innovative solution for powering and controlling motors with precision and efficiency.
+
+#
 ### SES Motor Innovation
 
 The SES (Self-Excited Stator) concept motor represents a significant leap in innovation by integrating an active electromagnetic stator that uses some of its generated electricity to sustain operation. This eliminates the reliance on external power sources, such as batteries or outlets, making it an energy-efficient and environmentally friendly solution. Its ability to operate independently in locations lacking reliable power or during crises, such as natural disasters, enhances its utility across industries. Furthermore, the SES concept showcases versatility, offering variable speed control and a high power-to-weight ratio. These features make it ideal for applications in transportation systems, robotics, and medical equipment, where precision and efficiency are paramount.
