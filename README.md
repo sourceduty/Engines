@@ -10,6 +10,8 @@ In aerospace, propulsion systems differ due to the unique demands of air and spa
 #
 ### Motor/Engine
 
+![Fusion](https://github.com/user-attachments/assets/b6de9bda-be5b-4d01-9ba6-b56c0b68747f)
+
 A motor and an engine are closely related but not identical concepts, as they differ in their energy sources and applications. A motor is a device that converts electrical energy into mechanical motion, commonly used in machinery, vehicles, and household appliances, such as electric fans or elevators. An engine, on the other hand, typically converts chemical energy—usually from fuel like gasoline or diesel—into mechanical motion, as seen in combustion engines used in cars and airplanes. While motors are often associated with electrical systems, engines are generally tied to thermal or chemical processes. The terms are sometimes used interchangeably in casual conversation, particularly when referring to the driving mechanism of a vehicle, but their distinctions are significant in engineering contexts. For instance, an "electric engine" is rarely used; instead, it's called an "electric motor."
 
 #
