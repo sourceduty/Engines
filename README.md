@@ -78,7 +78,7 @@ This innovation, often referred to as a self-powered or self-excited motor, capi
 The versatility of an active electromagnetic stator allows it to support variable-speed operation, which is essential for applications requiring precise control, such as robotics, industrial machinery, and transportation systems. Its high power-to-weight ratio also makes it ideal for compact and mobile solutions like electric vehicles and hybrid systems. This innovation represents a step forward in addressing efficiency challenges while providing a flexible and reliable alternative to traditional motors.
 
 #
-### SES-C0001-01: A Technological Benchmark
+### SES-C0001-01
 
 The SES-C0001-01 motor exemplifies the potential of active electromagnetic stator technology. This brushless DC motor integrates sensors and electronics, enabling it to function as both an actuator and a position sensor without external components. A Hall effect sensor within the motor detects the rotor's position, facilitating precise control with minimal energy usage. With capabilities such as producing up to 3Nm of torque and operating efficiently at low speeds, this motor is suited for diverse applications, including robotics, medical devices, and automotive systems.
 
