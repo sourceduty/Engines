@@ -1,0 +1,30 @@
+Charged Electric Motor Stator Concept Design
+
+-------------------------------------------------------------------
+
+The purpose of creating active electromagnetic stator that uses some of the generated electric in an electric motor to power itself is to reduce the overall energy consumption and increase efficiency. By using some of the generated electricity from the motor, we can eliminate the need for external sources of power such as batteries or electrical outlets. This not only reduces the cost of operation but also makes it more environmentally friendly since there are no disposable batteries to dispose of and less reliance on non-renewable energy sources.
+
+Self-Excited Stator (SES)
+
+This type of motor is also known as a self-powered or self-excited motor.
+
+An active electromagnetic stator is a type of electric motor that uses some of the generated electricity in the motor to power itself, making it more energy efficient than traditional motors. This means that instead of relying solely on an external power source, this motor can generate its own power using the kinetic energy produced by the rotation of the rotor within the stator. The result is a more efficient and cost-effective solution for various applications such as industrial machinery, household appliances, and transportation systems.
+
+One advantage of an active electromagnetic stator is that it can operate in environments where external power sources may not be readily available or reliable. For example, in remote locations or during natural disasters when traditional power grids are down, this type of motor can continue to function using its own generated electricity. Additionally, since the motor generates its own power, there is less wear and tear on the components over time, resulting in a longer lifespan for the device.
+
+Another benefit of an active electromagnetic stator is that it can be designed to operate at variable speeds, making it suitable for use in applications where precise speed control is necessary. This type of motor also has a high power-to-weight ratio, which makes it ideal for use in transportation systems such as electric vehicles and hybrid cars. Overall, the active electromagnetic stator represents an innovative solution to traditional energy efficiency challenges faced by various industries and applications.
+
+Self-Excited Stator Motor Concept (SES-C0001-01)
+
+SES-C0001-01 is a unique brushless DC (BLDC) motor concept with integrated electronics and sensors, which allows it to be used as both an actuator and position sensor without any additional external components. It can also operate in open loop mode for simple applications such as fans or pumps.
+The SES-C0001-01 has a built-in Hall effect sensor that detects the rotor's position, allowing it to be controlled precisely with minimal power consumption. The motor is designed to have high torque at low speeds and can generate up to 3Nm of torque. It also features an active electromagnetic stator that uses some of the generated electric in an electric motor to power itself, making it more energy efficient than traditional motors.
+
+The SES-C0001-01 is ideal for applications such as robotics, medical equipment, and automotive systems where precise positioning and control are required. It can also be used in industrial machinery and HVAC systems where energy efficiency is a priority. The motor's compact size and lightweight design make it easy to integrate into various devices and machines. Additionally, its high torque output makes it suitable for applications that require heavy lifting or precise movement. Overall, the SES-C0001-01 offers an innovative solution for powering and controlling motors with precision and efficiency.
+
+New Conceptual Technology
+
+While there are some prototypes that exist in research labs around the world, they have not yet been commercialized or widely adopted due to technical challenges related to their design and implementation. However, it is likely that active electromagnetic stators will become more prevalent in the future as technology advances and demand for energy-efficient solutions increases.
+
+-------------------------------------------------------------------
+
+Copyright (C) 2024, Sourceduty - All Rights Reserved.
