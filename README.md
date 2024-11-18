@@ -15,7 +15,7 @@ In aerospace, propulsion systems differ due to the unique demands of air and spa
 A motor and an engine are closely related but not identical concepts, as they differ in their energy sources and applications. A motor is a device that converts electrical energy into mechanical motion, commonly used in machinery, vehicles, and household appliances, such as electric fans or elevators. An engine, on the other hand, typically converts chemical energy—usually from fuel like gasoline or diesel—into mechanical motion, as seen in combustion engines used in cars and airplanes. While motors are often associated with electrical systems, engines are generally tied to thermal or chemical processes. The terms are sometimes used interchangeably in casual conversation, particularly when referring to the driving mechanism of a vehicle, but their distinctions are significant in engineering contexts. For instance, an "electric engine" is rarely used; instead, it's called an "electric motor."
 
 #
-### ELectric Motor Names
+### Electric Motor Names
 
 Electric motor models are typically named using a combination of standardized conventions, manufacturer-specific codes, and performance-based designations. Common naming conventions often include details such as the type of motor, its power rating, frame size, speed, and other specifications. For example, the "NEMA 56C" model refers to a motor designed according to NEMA (National Electrical Manufacturers Association) standards with a specific frame size and mounting configuration. Similarly, IEC standards also provide naming conventions, where motors may have names like "IE3 80M" to indicate an energy-efficient motor (IE3) with a frame size of 80M.
 
