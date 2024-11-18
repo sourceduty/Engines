@@ -21,10 +21,6 @@ The SES-C0001-01 has a built-in Hall effect sensor that detects the rotor's posi
 
 The SES-C0001-01 is ideal for applications such as robotics, medical equipment, and automotive systems where precise positioning and control are required. It can also be used in industrial machinery and HVAC systems where energy efficiency is a priority. The motor's compact size and lightweight design make it easy to integrate into various devices and machines. Additionally, its high torque output makes it suitable for applications that require heavy lifting or precise movement. Overall, the SES-C0001-01 offers an innovative solution for powering and controlling motors with precision and efficiency.
 
-New Conceptual Technology
-
-While there are some prototypes that exist in research labs around the world, they have not yet been commercialized or widely adopted due to technical challenges related to their design and implementation. However, it is likely that active electromagnetic stators will become more prevalent in the future as technology advances and demand for energy-efficient solutions increases.
-
 -------------------------------------------------------------------
 
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
