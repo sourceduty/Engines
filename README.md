@@ -97,6 +97,13 @@ The SES (Self-Excited Stator) concept motor represents a significant leap in inn
 Despite its potential, the SES motor is currently limited by technical design challenges and a lack of commercialization, resulting in uncertain cost implications. However, the integrated features—such as Hall effect sensors and the ability to generate high torque with minimal power consumption—suggest potential cost savings in energy usage and maintenance. As technology advances and the demand for energy-efficient solutions increases, the SES motor could emerge as a cost-effective and innovative solution for modern industrial and consumer needs.
 
 #
+### SES Technology
+
+The most beneficial aspect of SES motor technology lies in its ability to enhance energy efficiency and operational independence. By utilizing an active electromagnetic stator powered by the motor's own generated electricity, the SES motor reduces reliance on external power sources like batteries or electrical grids. This innovation not only minimizes energy waste but also allows the motor to operate in remote or unreliable power conditions. Additionally, the integrated electronics and sensors offer precision control, enabling variable speed operation and a longer lifespan due to reduced wear and tear. These benefits make the SES motor ideal for applications requiring high efficiency and resilience, such as electric vehicles, robotics, and industrial machinery.
+
+While the SES motor's primary focus is improving energy efficiency, its design also contributes to enhanced torque characteristics. For example, the SES-C0001-01 model is capable of generating up to 3Nm of torque, emphasizing its high power output at low speeds. However, the core innovation does not directly add more power or torque beyond traditional motors of similar size but instead optimizes the utilization of available energy. This optimization allows the motor to deliver consistent performance with lower power consumption, making it more effective in applications that demand precision and heavy lifting while conserving energy.
+
+#
 ### Conceptual/Theoretical Motors
 
 | Conceptual/Theoretical Motor Type  | Description                                   | Key Theoretical Parts                      |
