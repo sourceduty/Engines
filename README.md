@@ -17,6 +17,8 @@ A motor and an engine are closely related but not identical concepts, as they di
 #
 ### Electric Motor Names
 
+![Future](https://github.com/user-attachments/assets/9e23f7df-89a2-4c39-b93e-22abaf1f93f9)
+
 Electric motor models are typically named using a combination of standardized conventions, manufacturer-specific codes, and performance-based designations. Common naming conventions often include details such as the type of motor, its power rating, frame size, speed, and other specifications. For example, the "NEMA 56C" model refers to a motor designed according to NEMA (National Electrical Manufacturers Association) standards with a specific frame size and mounting configuration. Similarly, IEC standards also provide naming conventions, where motors may have names like "IE3 80M" to indicate an energy-efficient motor (IE3) with a frame size of 80M.
 
 Manufacturers often include proprietary codes or trade names to differentiate their models. For instance, Siemens may name a motor "1LE1001-1DB32-2AA4" to signify its series, power characteristics, and design. ABB might label a motor "M3BP 132SMA 2G," where "132SM" indicates the frame size and mounting, and "2G" specifies the speed and pole configuration. While there isn't a universal standard for all motor naming, adherence to regional standards like NEMA, IEC, or JIS ensures that key information about motor performance and compatibility is consistently represented. These naming conventions help users quickly identify and match motors to specific applications.
