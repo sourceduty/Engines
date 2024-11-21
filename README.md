@@ -127,6 +127,8 @@ The SES-C0001-01 model exemplifies these advantages, producing high torque with 
 #
 ![Burnout](https://github.com/user-attachments/assets/336f302e-a7b3-4894-bf36-5fe24185a426)
 #
+![Cold Old](https://github.com/user-attachments/assets/13629c74-a83a-40f7-8a2d-668547b48c01)
+#
 ![Motors](https://github.com/user-attachments/assets/5b0a9665-9432-4afb-a408-bcae645c05d0)
 
 #
