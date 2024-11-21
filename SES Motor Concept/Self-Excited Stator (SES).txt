@@ -34,4 +34,4 @@ The SES-C0001-01 model exemplifies these advantages, producing high torque with 
 
 -------------------------------------------------------------------
 
-Copyright (C) 2024, Sourceduty - All Rights Reserved.
+🛈 This information is free and open-source; anyone can redistribute it and/or modify.
