@@ -119,6 +119,12 @@ The SES-C0001-01 model exemplifies these advantages, producing high torque with 
 | Thermoacoustic Motor              | Converts heat gradients to mechanical energy. | Acoustic Resonator, Thermal Conductors     |
 
 #
+
+> Alex: "*I invented the 'Self-Excited Stator' and shared it here as an innovation for the industry.*"
+
+> "*I'm excited about this technology but I probably won't invest in the development or testing of it.*"
+
+#
 ![Burnout](https://github.com/user-attachments/assets/336f302e-a7b3-4894-bf36-5fe24185a426)
 #
 ![Motors](https://github.com/user-attachments/assets/5b0a9665-9432-4afb-a408-bcae645c05d0)
@@ -141,4 +147,4 @@ The SES-C0001-01 model exemplifies these advantages, producing high torque with 
 [Quantum](https://github.com/sourceduty/Quantum)
 
 ***
-Copyright (C) 2024, Sourceduty - All Rights Reserved.
+🛈 This information is free and open-source; anyone can redistribute it and/or modify.
