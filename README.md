@@ -147,6 +147,8 @@ The SES-C0001-01 model exemplifies these advantages, producing high torque with 
 [Quantum Simulator](https://github.com/sourceduty/Quantum_Simulator)
 <br>
 [Quantum](https://github.com/sourceduty/Quantum)
+<br>
+[Invention](https://github.com/sourceduty/Invention)
 
 ***
 🛈 This information is free and open-source; anyone can redistribute it and/or modify.
